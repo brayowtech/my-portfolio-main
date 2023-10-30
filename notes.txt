@@ -1,0 +1,43 @@
+
+
+
+
+
+
+
+
+
+
+
+                <div class="javascript-projects">
+                    <div class="project">
+                        <img src="" alt="">
+                        <h2>Title</h2>
+                        <button>View Project</button>
+                    </div>
+                    <div class="project">
+                        <img src="" alt="">
+                        <h2>Title</h2>
+                        <button>View Project</button>
+                    </div>
+                    <div class="project">
+                        <img src="" alt="">
+                        <h2>Title</h2>
+                        <button>View Project</button>
+                    </div>
+                    <div class="project">
+                        <img src="" alt="">
+                        <h2>Title</h2>
+                        <button>View Project</button>
+                    </div>
+                    <div class="project">
+                        <img src="" alt="">
+                        <h2>Title</h2>
+                        <button>View Project</button>
+                    </div>
+                    <div class="project">
+                        <img src="" alt="">
+                        <h2>Title</h2>
+                        <button>View Project</button>
+                    </div>
+                </div>
