@@ -12,7 +12,7 @@ faXmark.onclick = function(){
 }
 
 // Google sheets form submission
-  const scriptURL = 'https://script.google.com/macros/s/AKfycbwDYDg1eH2Pi_iH05E1gILo-QqHXNaoVElcOLoWec3yDm3TsME7sIfqLP2FEqcfoDxz_Q/exec'
+  const scriptURL = 'https://script.google.com/macros/s/AKfycbxvFsW2pI7qRo1Ur3jiWP63bjbl5dBhMw7egvPDp0aGzCv5LpeYrfZVtPgfUNydzhzP/exec'
   const form = document.forms['submit-to-google-sheet']
   const msg = document.getElementById("msg")
 
